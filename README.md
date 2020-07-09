@@ -1,8 +1,6 @@
 # Git-Ignore-para-Android-Studio
 
 ```
-# Created by https://www.toptal.com/developers/gitignore/api/androidstudio
-# Edit at https://www.toptal.com/developers/gitignore?templates=androidstudio
 
 ### AndroidStudio ###
 # Covers files to be ignored for android development using Android Studio.
